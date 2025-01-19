@@ -12,3 +12,4 @@ c:\Users\evans\OneDrive - Estudiantes ITCR\Documentos\Documentos Verano 2024-202
 c:\Users\evans\OneDrive - Estudiantes ITCR\Documentos\Documentos Verano 2024-2025\Datos 1\Proyecto3\obj\Debug\net9.0\Proyecto3.pdb
 C:\Users\evans\OneDrive - Estudiantes ITCR\Documentos\Documentos Verano 2024-2025\Datos 1\Proyecto3\obj\Debug\net9.0\Proyecto3.genruntimeconfig.cache
 C:\Users\evans\OneDrive - Estudiantes ITCR\Documentos\Documentos Verano 2024-2025\Datos 1\Proyecto3\obj\Debug\net9.0\ref\Proyecto3.dll
+c:\Users\evans\OneDrive - Estudiantes ITCR\Documentos\Documentos Verano 2024-2025\Datos 1\Proyecto3\obj\Debug\net9.0\Proyecto3.sourcelink.json
